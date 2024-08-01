@@ -1,1 +1,1 @@
-# proyecto
+1/8 Creamos el repositorio
