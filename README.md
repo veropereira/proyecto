@@ -1,1 +1,1 @@
-1/8 Creamos el repositorio
+este proyecto se trata de hacer una tienda de ropa
